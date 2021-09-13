@@ -1,1 +1,1 @@
-package com.dao;/** * @author hubing */public interface User {}
+package com.dao;import org.springframework.stereotype.Component;@Component("dao")public class User {    public void query() {        System.out.println("----开始----");    }}
