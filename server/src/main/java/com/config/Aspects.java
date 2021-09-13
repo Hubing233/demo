@@ -20,4 +20,9 @@ public class Aspects {
     public void before(){
         System.out.println("before通知-----");
     }
+
+
+    public void in(){
+        System.out.println("in---------");
+    }
 }
