@@ -22,7 +22,5 @@ public class Aspects {
     }
 
 
-    public void in(){
-        System.out.println("in---------");
-    }
+
 }
