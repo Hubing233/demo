@@ -11,4 +11,8 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 @EnableAspectJAutoProxy
 public class Config {
 
+    public static void main(String[] args) {
+
+    }
+
 }
