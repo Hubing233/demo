@@ -21,6 +21,8 @@ public class Aspects {
         System.out.println("before通知-----");
     }
 
+    public static void main(String[] args) {
 
+    }
 
 }
