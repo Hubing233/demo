@@ -1,0 +1,1 @@
+package com.dao;/** * @author hubing */public interface User {}
