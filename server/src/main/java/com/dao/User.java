@@ -1,1 +1,1 @@
-package com.dao;import org.springframework.stereotype.Component;@Component("dao")public class User {    public void query() {        System.out.println("----开始----");    }}
+package com.dao;import org.springframework.stereotype.Component;@Component("dao")public class User {    public void query() {        System.out.println("----开始----");    }    public void in(){    }}
