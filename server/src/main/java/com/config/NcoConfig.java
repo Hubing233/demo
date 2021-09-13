@@ -1,0 +1,1 @@
+package com.config;/** * @author hubing */public class NcoConfig {    public static void main(String[] args) {        System.out.println();    }}
